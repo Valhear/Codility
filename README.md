@@ -1,2 +1,2 @@
-# Codility
-Codility Exercises
+# Coding Exercises
+

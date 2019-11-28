@@ -15,8 +15,6 @@ Write a function that takes a String argument and returns a Bool if it contains 
 
 import Foundation
 
-var str = "Hello, playground"
-
 func validate(input: String) -> Bool {
     let allowedCharacters = "()"
     var matchingCharacters = ""

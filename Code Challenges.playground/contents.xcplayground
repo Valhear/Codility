@@ -3,5 +3,6 @@
     <pages>
         <page name='Consonants &amp; Vowels'/>
         <page name='Character validation'/>
+        <page name='FIbonacci'/>
     </pages>
 </playground>

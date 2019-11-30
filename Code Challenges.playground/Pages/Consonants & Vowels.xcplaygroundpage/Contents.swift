@@ -37,5 +37,7 @@ func output(input: String) -> (String, String) {
     return (consonants, vowels)
 }
 
+
+
 output(input: input)
 

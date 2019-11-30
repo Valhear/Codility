@@ -35,3 +35,6 @@ func validate(input: String) -> Bool {
 validate(input: "(Hello, World!)")
 validate(input: "(Hello, World!")
 validate(input: "Hello, World!)")
+
+
+//reduce

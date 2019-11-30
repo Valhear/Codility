@@ -21,3 +21,4 @@ func fibonacci(input: Int) -> [Int] {
 }
 
 fibonacci(input: 7)
+
